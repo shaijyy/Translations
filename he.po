@@ -227,7 +227,7 @@ msgstr "<p> אנו שומרים על קוד פתוח של MultiMC מכיוון �
 #: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Add New Account"
-msgstr ""
+msgstr "הוסף חשבון חדש"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:42
 msgctxt "AccountTask|"
@@ -278,19 +278,19 @@ msgstr "מצב חשבון לא מוכר: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:35
 msgctxt "AccountsDialog|"
 msgid "Accounts"
-msgstr ""
+msgstr "חשבונות"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr ""
+msgstr "חשבון \ שם הפרופיל כאן"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr ""
+msgstr "רענן פרטי חשבון"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,95 +298,96 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr ""
+msgstr "צא מהחשבון"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr ""
+msgstr "פתח את תיקיית הסקינים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr ""
+msgstr "מודל"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr ""
+msgstr "קלאסי"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr ""
+msgstr "מחודש"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr ""
+msgstr "אפס שינויים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr ""
+msgstr "יישום שינויים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr ""
+msgstr "שמור סקין לקובץ"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr ""
+msgstr "סקינים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr ""
+msgstr "גלימות"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr ""
+msgstr "שם חשבון כאן"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr ""
+msgstr "יש רק עוד שלב אחד עד שתוכלו לשחק במיינקראפט בחשבון זה.\n\n"
+"בחרו את שמכם:"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr ""
+msgstr "צור פרופיל"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr ""
+msgstr "פג תוקף אימות בעלותך של חשבון זה, ייתכן ותצטרך להכנס לחשבון שוב.."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr ""
+msgstr "הסר והכנס שוב"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr "לחשבון זה אין בעלות על Minecraft עדיין, בלי לרכוש את המשחק אתה יכול לשחק רק בגרסת הנסיון."
+msgstr "מיינקראפט אינו משוייך לחשבון זה, בלי לרכוש את המשחק תוכל לשחק רק בגרסת הנסיון."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr "קנה את Minecraft"
+msgstr "קנה את מיינקראפט"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
 msgid "Minecraft Accounts"
-msgstr "חשבון Minecraft"
+msgstr "חשבון מיינקראפט"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:203
 msgctxt "AccountsDialog|"
@@ -396,24 +397,24 @@ msgstr "החלת הסקין נכשלה"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr ""
+msgstr "תוכל לסרוק את קוד ה- QR ולהשלים את תהליך ההתחברות במכשיר אחר, או שתוכל לפתוח את הקישור ולהכנס לחשבון במכשיר הנוכחי."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr ""
+msgstr "שם קצר מדי - חייב להכיל לפחות 3 אותיות ולא יותר מ16."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr ""
+msgstr "משתמש מיינקראפט עם השם %1 כבר קיים."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:770
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "The name %1 is not allowed."
-msgstr ""
+msgstr "השם %1 אסור."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:773
 #, qt-format
@@ -424,7 +425,7 @@ msgstr "סטטוס שם פרופיל לא מטופל: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr ""
+msgstr "לא ניתן לבדוק את זמינות השם שנבחר."
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -434,30 +435,30 @@ msgstr "הגדרות"
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:21
 msgctxt "AssetUpdateTask|"
 msgid "Updating assets index..."
-msgstr "מעדכן אינדקס נכסים..."
+msgstr "מעדכן אינדקס קבצים..."
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:28
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Asset index for %1"
-msgstr "אינדקס נכסים עבור %1"
+msgstr "אינדקס קבצים עבור %1"
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:73
 msgctxt "AssetUpdateTask|"
 msgid "Failed to read the assets index!"
-msgstr "קריאת מדד הנכסים נכשלה!"
+msgstr "קריאת אינדקס הקבצים נכשלה!"
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:79
 msgctxt "AssetUpdateTask|"
 msgid "Getting the assets files from Mojang..."
-msgstr "מקבל את קבצי הנכסים מ-Mojang..."
+msgstr "מקבל את הקבצים מ-Mojang..."
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:93
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download the assets index:\n"
 "%1"
-msgstr "הורדת מפתח הנכסים נכשלה:\n"
+msgstr "הורדת אינדקס הקבצים נכשלה:\n"
 "%1"
 
 #: src/launcher/minecraft/update/AssetUpdateTask.cpp:98
@@ -465,7 +466,7 @@ msgstr "הורדת מפתח הנכסים נכשלה:\n"
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download assets:\n"
 "%1"
-msgstr "הורדת הנכסים נכשלה:\n"
+msgstr "הורדת הקבצים נכשלה נכשלה:\n"
 "%1"
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlFilterModel.cpp:30
@@ -521,7 +522,7 @@ msgstr "אזהרה"
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:42
 msgctxt "AtlPage|"
 msgid "Warning: This is still a work in progress. If you run into issues with the imported modpack, it may be a bug."
-msgstr "אזהרה: זה עדיין בעבודה. אם אתה חווה בעיות עם המודפאק המיובא, זה יכול להיות באג."
+msgstr "אזהרה: זהו לא תוצר סופי. אם אתה חווה בעיות עם המודפאק הזה, זה יכול להיות באג."
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.ui:59
 msgctxt "AtlPage|"
@@ -542,7 +543,7 @@ msgstr "ATLauncher"
 #, qt-format
 msgctxt "AtlPage|"
 msgid "No versions are currently available for Minecraft %1"
-msgstr "אין גרסאות זמינות כרגע עבור מיינקרפט %1"
+msgstr "אין גרסאות זמינות כרגע עבור מיינקראפט %1"
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:163
 msgctxt "AtlPage|"
@@ -567,12 +568,12 @@ msgstr "כל שלבי האימות הושלמו"
 #: src/launcher/minecraft/auth/flows/AuthFlow.cpp:34
 msgctxt "AuthFlow|"
 msgid "Initializing"
-msgstr "מאתחל"
+msgstr "מתחיל"
 
 #: src/launcher/minecraft/auth/flows/AuthFlow.cpp:64
 msgctxt "AuthFlow|"
 msgid "Working..."
-msgstr "בעבודה..."
+msgstr "עובד..."
 
 #: src/launcher/tools/BaseProfiler.cpp:30
 msgctxt "BaseProfiler|"
@@ -582,13 +583,13 @@ msgstr "הפרופיילר נעצר"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr ""
+msgstr "כלום"
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr ""
+msgstr "נכשל בהתקנת החשבון מפרופיל: %1 לא נמצא."
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -620,7 +621,7 @@ msgstr "משימת עדכון המטא נתונים של הרכיב נכשלה �
 #: src/launcher/ui/dialogs/CopyInstanceDialog.ui:17
 msgctxt "CopyInstanceDialog|"
 msgid "Copy Instance"
-msgstr "העתק מופע"
+msgstr "העתק התקנה"
 
 #: src/launcher/ui/dialogs/CopyInstanceDialog.ui:74
 msgctxt "CopyInstanceDialog|"
@@ -768,7 +769,7 @@ msgstr "הושגו זכאויות"
 #: src/launcher/ui/dialogs/ExportInstanceDialog.ui:14
 msgctxt "ExportInstanceDialog|"
 msgid "Export Instance"
-msgstr "יצא מופע"
+msgstr "ייצא התקנה"
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:384
 #, qt-format
@@ -794,7 +795,7 @@ msgstr "שגיאה"
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Unable to export instance"
-msgstr "לא ניתן היה לייצא את המופע"
+msgstr "לא ניתן היה לייצא את ההתקנה"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.ui:59
 #: src/launcher/ui/pages/global/ExternalToolsPage.ui:96
